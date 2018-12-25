@@ -17,10 +17,6 @@ public class EmailController {
 	public boolean sendEmail(
 			@RequestParam(value="email") String email
 			) {
-		return emailSender.sendMail(email, "tushar gandhi", "53", "subtract");
+		return emailSender.sendMail(email, "53", "subtract");
 	}
-	
-
-	
-	
 }
