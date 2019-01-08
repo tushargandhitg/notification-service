@@ -1,0 +1,8 @@
+/Users/tgandhi/assignment/notification-service/src/main/java/service/notification/NotificationServiceApplication.java
+/Users/tgandhi/assignment/notification-service/src/main/java/service/notification/EmailController.java
+/Users/tgandhi/assignment/notification-service/src/main/java/service/notification/MessageStorage.java
+/Users/tgandhi/assignment/notification-service/src/main/java/service/notification/KafkaConsumer.java
+/Users/tgandhi/assignment/notification-service/src/main/java/service/notification/KafkaProducer.java
+/Users/tgandhi/assignment/notification-service/src/main/java/service/notification/email/EmailSender.java
+/Users/tgandhi/assignment/notification-service/src/main/java/service/notification/NotificationConsumer.java
+/Users/tgandhi/assignment/notification-service/src/main/java/service/notification/KafkaMessage.java

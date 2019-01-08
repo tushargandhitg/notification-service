@@ -1,0 +1,8 @@
+service/notification/EmailController.class
+service/notification/NotificationConsumer.class
+service/notification/KafkaMessage.class
+service/notification/KafkaProducer.class
+service/notification/MessageStorage.class
+service/notification/KafkaConsumer.class
+service/notification/email/EmailSender.class
+service/notification/NotificationServiceApplication.class
